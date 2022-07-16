@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PureIsntHere
+- I work primarily with python and C#
+- I'm too lazy to finish this! If you know me, you know what I do.
