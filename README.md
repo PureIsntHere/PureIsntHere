@@ -32,7 +32,7 @@
 
 ---
 
-### 🧿 Quick Sigils
+### 🧿 Quick Links
 
 <p align="center">
   <a href="https://github.com/PureIsntHere">
@@ -48,7 +48,6 @@
 
 ---
 
-### 🌑 GitHub Stardust
 
 <p align="center">
   <a href="https://github.com/PureIsntHere">
