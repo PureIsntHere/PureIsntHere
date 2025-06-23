@@ -36,10 +36,10 @@
 
 <p align="center">
   <a href="https://github.com/PureIsntHere">
-    <img src="https://img.shields.io/badge/github-dark-0d1117?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/github-Repos-0d1117?style=for-the-badge&logo=github">
   </a>
   <a href="mailto:purewashere@protonmail.com">
-    <img src="https://img.shields.io/badge/email-gothic-5c5c5c?style=for-the-badge&logo=minutemailer">
+    <img src="https://img.shields.io/badge/email-Contact Me-5c5c5c?style=for-the-badge&logo=minutemailer">
   </a>
   <a href="https://pures.space">
     <img src="https://img.shields.io/badge/website-pures.space-1e1e1e?style=for-the-badge&logo=ghost&logoColor=white">
