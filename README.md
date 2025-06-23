@@ -1,5 +1,3 @@
-<!-- Gothic GitHub Profile README -->
-
 <h1 align="center">✝ 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖙𝖍𝖊 𝖉𝖎𝖌𝖎𝖙𝖆𝖑 𝖈𝖆𝖙𝖍𝖊𝖉𝖗𝖆𝖑 ✝</h1>
 
 <p align="center">
