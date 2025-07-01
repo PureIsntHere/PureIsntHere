@@ -1,13 +1,4 @@
-<h1 align="center">✝ 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖙𝖍𝖊 𝖉𝖎𝖌𝖎𝖙𝖆𝖑 𝖈𝖆𝖙𝖍𝖊𝖉𝖗𝖆𝖑 ✝</h1>
-
-<p align="center">
-  <img src="https://www.svgrepo.com/show/202867/tombstone-tomb.svg" height="40" />
-</p>
-
-<p align="center">
-  <i>“I'm so desperately lonely, untouched and so wholly surrendered to death's sweet promise.”</i><br>
-  — Silver, Nosferatu
-</p>
+<h1 align="center">Welcome to my github</h1>
 
 ---
 
@@ -15,15 +6,12 @@
 
 <table>
 <tr>
-<td><img src="https://www.svgrepo.com/show/481204/bat-vector.svg" width="20" /></td>
 <td><strong>Name:</strong> Pure / PureIsntHere / Cody</td>
 </tr>
 <tr>
-<td><img src="https://www.svgrepo.com/show/481907/spider-4.svg" width="20" /></td>
 <td><strong>Focus:</strong> Web Development, Server Management, Software-Based Automation, CyberSecurity / CyberCrime Mitigation</td>
 </tr>
 <tr>
-<td><img src="https://www.svgrepo.com/show/479352/gear.svg" width="20" /></td>
 <td><strong>Languages:</strong> Python, Lua, C++, C#, HTML, CSS, JavaScript</td>
 </tr>
 </table>
@@ -61,8 +49,4 @@
 
 <p align="center">
   <img src="https://www.svgrepo.com/show/481204/bat-vector.svg" height="48"/>
-</p>
-
-<p align="center" style="color:gray;font-size:0.9em">
-  ⛧ 𝖋𝖎𝖓. 𝕮𝖔𝖉𝖊 𝖈𝖗𝖆𝖋𝖙𝖊𝖉 𝖎𝖓 𝖘𝖎𝖑𝖊𝖓𝖈𝖊 ⛧
 </p>
